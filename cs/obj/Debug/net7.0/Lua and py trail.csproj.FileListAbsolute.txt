@@ -1,0 +1,15 @@
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\bin\Debug\net7.0\Lua and py trail.exe
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\bin\Debug\net7.0\Lua and py trail.deps.json
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\bin\Debug\net7.0\Lua and py trail.runtimeconfig.json
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\bin\Debug\net7.0\Lua and py trail.dll
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\bin\Debug\net7.0\Lua and py trail.pdb
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.csproj.AssemblyReference.cache
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.AssemblyInfoInputs.cache
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.AssemblyInfo.cs
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.dll
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\refint\Lua and py trail.dll
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.pdb
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\Lua and py trail.genruntimeconfig.cache
+C:\Users\Jonas\OneDrive - Innlandet fylkeskommune\skole arbeid\VG2\Programfag\Lua and py trail\cs\obj\Debug\net7.0\ref\Lua and py trail.dll

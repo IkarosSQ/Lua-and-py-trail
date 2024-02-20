@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lua and py trail/1.0.0": {
+        "runtime": {
+          "Lua and py trail.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lua and py trail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

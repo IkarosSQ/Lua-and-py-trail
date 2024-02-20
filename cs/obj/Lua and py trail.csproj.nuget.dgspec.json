@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jonas\\OneDrive - Innlandet fylkeskommune\\skole arbeid\\VG2\\Programfag\\Lua and py trail\\cs\\Lua and py trail.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jonas\\OneDrive - Innlandet fylkeskommune\\skole arbeid\\VG2\\Programfag\\Lua and py trail\\cs\\Lua and py trail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonas\\OneDrive - Innlandet fylkeskommune\\skole arbeid\\VG2\\Programfag\\Lua and py trail\\cs\\Lua and py trail.csproj",
+        "projectName": "Lua and py trail",
+        "projectPath": "C:\\Users\\Jonas\\OneDrive - Innlandet fylkeskommune\\skole arbeid\\VG2\\Programfag\\Lua and py trail\\cs\\Lua and py trail.csproj",
+        "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonas\\OneDrive - Innlandet fylkeskommune\\skole arbeid\\VG2\\Programfag\\Lua and py trail\\cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
